@@ -22,7 +22,7 @@ Create a function that takes the age in years and returns the age in days.
 + Expect only positive integer inputs.
 
 ## Codigo Realizado :
-
+```cs
 public class Program 
 {
     public static int CalcAge(int age) 
@@ -30,8 +30,10 @@ public class Program
 			return age * 365;
     }
 }
+```
 
 ## Codigo de Prueba :
+```cs
 [TestFixture]
 public class Tests {
 	[Test]
@@ -44,7 +46,7 @@ public class Tests {
 		return Program.CalcAge(age);
 	}
 }
-
+```
 ## Estimacion :
 2 minutos
 
