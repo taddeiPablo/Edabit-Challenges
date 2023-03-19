@@ -56,7 +56,7 @@ public class Tests {
 
 ## <u>2. Segundo Ejercicio </u>
 ### Are the Numbers Equal?
-Create a function that takes two integers and checks if they are equal https://edabit.com/challenge/nkkKguC5TgWnBiMLA
+Create a function that takes two integers and checks if they are equal https://edabit.com/challenge/oDnoAHEnAsL78sQh9
 
 ### Instrucciones
 Create a function that takes two integers and checks if they are equal.
