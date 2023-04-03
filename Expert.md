@@ -19,6 +19,7 @@ Create a function that counts how many n-digit numbers have the same sum of the 
 + There are checks for n > 10, so watch out for code performance.
 If you have problems finding a productive algorithm, look in the comments, there is one good person who explained the solution algorithm.
 
++ NOTA : Para resolver este ejercicio tuve que mirar la informacion de ayuda ya que la explicacion del mismo no era muy clara y generaba confusion.
 ## Codigo Realizado :
 ```cs
 using System;
@@ -74,10 +75,10 @@ public class Tests
 }
 ```
 ## Estimacion :
-15 minutos
+40 minutos
 
 ## Actual Duracion :
-10 minuto
+35 minuto
 
 <hr>
 
@@ -156,10 +157,10 @@ public class Tests
 }
 ```
 ## Estimacion :
-15 minutos
+50 minutos
 
 ## Actual Duracion :
-10 minuto
+40 minuto
 
 <hr>
 
@@ -218,7 +219,7 @@ public class Tests
 }
 ```
 ## Estimacion :
-20 minutos
+50 minutos
 
 ## Actual Duracion :
-15 minuto
+50 minuto
